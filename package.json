@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  },
+  "name": "frontendmentor1",
+  "description": "![Design preview for the QR code component coding challenge](preview.jpg)",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "watch" : "npx @tailwindcss/cli -i ./input.css -o ./output.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
